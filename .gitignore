@@ -1,0 +1,2 @@
+# 忽略node_modules文件夹的所以包
+node_modules/
